@@ -1,1 +1,1 @@
-# next-mantine-mono-boilerplate
+# next-mantine-boilerplate
